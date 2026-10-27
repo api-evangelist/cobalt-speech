@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cobalt Speech is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://cobaltspeech.com/
+Cobalt Speech provides speech‑to‑text, text‑to‑speech, and voice‑biometrics APIs that enable developers to add real‑time transcription, synthetic speech, and speaker verification to applications. Their platform offers high accuracy, low latency, and supports multiple languages and audio formats, targeting enterprises, contact‑center solutions, and accessibility tools.
+
+**Areas:** Company · Speech · AI · Transcription · Voice
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cobaltspeech.com/)
+- [Documentation](https://docs.cobaltspeech.com/)
+- [Getting started](https://docs.cobaltspeech.com/docs/asr/transcribe/client_quickstart/)
+- [Support](https://cobaltspeech.com/support)
+- [Blog](https://cobaltspeech.com/blog)
+- [Terms of service](https://cobaltspeech.com/terms)
+- [Privacy policy](https://cobaltspeech.com/privacy)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/cobalt-speech/](https://apis.io/providers/cobalt-speech/).
